@@ -1886,7 +1886,6 @@ acellular
 acemetae
 acemila
 acerb
-acenaphthene
 acenaphthenyl
 acenaphthylene
 acenesthesia
@@ -5201,6 +5200,7 @@ aetheling
 aetheogam
 aetheogamic
 aetheogamous
+acenaphthene
 airth
 aether
 aethereal
