@@ -3144,6 +3144,7 @@ elongations
 elonite
 elope
 eloped
+enring
 elopement
 elopements
 eloper
@@ -3832,7 +3833,6 @@ emergentness
 emergents
 emergers
 emerges
-enring
 emery
 emerick
 emeried
