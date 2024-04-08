@@ -1185,6 +1185,7 @@ educ
 educabilia
 educability
 educable
+erratum
 educables
 educand
 educatability
@@ -9364,7 +9365,6 @@ erratically
 erraticalness
 erraticism
 erratics
-erratum
 erratums
 erratuta
 equitant
