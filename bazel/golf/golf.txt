@@ -1129,6 +1129,7 @@ grayness
 ganglionated
 ganglionectomy
 ganglionectomies
+glenoidal
 ganglioneural
 ganglioneure
 goschens
@@ -5389,7 +5390,6 @@ glenlivet
 gluten
 glenohumeral
 glenoid
-glenoidal
 glens
 glent
 glenwood

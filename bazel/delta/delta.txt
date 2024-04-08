@@ -3193,6 +3193,7 @@ defeminise
 defeminised
 defeminization
 defeminize
+doggerelize
 dismarshall
 defeminized
 defeminizing
@@ -3897,7 +3898,6 @@ dekadrachm
 dekagram
 dekagramme
 dekagrams
-doggerelize
 dekaliters
 dekalitre
 dekameter
