@@ -2778,6 +2778,7 @@ elements
 elemicin
 elemin
 elemis
+exacerbescence
 elemol
 elemong
 elench
@@ -11723,7 +11724,6 @@ exacerbating
 exacerbatingly
 exacerbation
 exacerbations
-exacerbescence
 exacervation
 exact
 electrolytes
