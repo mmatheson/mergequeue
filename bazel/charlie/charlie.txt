@@ -885,7 +885,6 @@ calaite
 calalu
 calamagrostis
 calamanco
-calamancoes
 calamancos
 calamander
 calamansi
@@ -11706,6 +11705,7 @@ chondriomere
 chondriomite
 chondriosomal
 chondriosome
+calamancoes
 chondriosomes
 chondriosphere
 chondrites

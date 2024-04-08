@@ -3211,7 +3211,6 @@ geometrise
 geopolitist
 geopony
 geoponic
-geoponics
 girlhoods
 geopositive
 geopotential
@@ -10107,6 +10106,7 @@ guffaw
 guffawed
 guffawing
 guffaws
+geoponics
 guffer
 guffy
 guffin
