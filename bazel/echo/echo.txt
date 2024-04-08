@@ -8585,7 +8585,6 @@ equational
 equationally
 equationist
 equations
-essentia
 equative
 equator
 etherial
@@ -13604,6 +13603,7 @@ exteriorisation
 exteriorise
 exteriorised
 epicyesis
+essentia
 exteriorising
 exteriority
 exteriorize
