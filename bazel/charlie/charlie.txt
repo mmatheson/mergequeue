@@ -4288,7 +4288,6 @@ carissa
 caritas
 caritative
 carites
-carity
 caritive
 cark
 carked
@@ -26514,6 +26513,7 @@ couchant
 couchantly
 couths
 couche
+carity
 couched
 couchee
 coucher

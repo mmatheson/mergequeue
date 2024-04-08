@@ -9500,7 +9500,6 @@ birny
 byrnie
 byrnies
 byroad
-byroads
 birodo
 biron
 byron
@@ -12254,6 +12253,7 @@ bombardier
 blottesquely
 bombardiers
 bombarding
+byroads
 bombardman
 boughless
 bombardmen
