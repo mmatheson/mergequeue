@@ -4210,7 +4210,6 @@ gimleteyed
 gimlety
 gimleting
 gimlets
-gimmal
 gymmal
 gimmaled
 gimmals
@@ -6951,6 +6950,7 @@ gonotocont
 gonotokont
 gonotome
 gonozooid
+gimmal
 gessamine
 gonzalo
 gonzo

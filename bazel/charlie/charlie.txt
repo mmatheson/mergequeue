@@ -7229,6 +7229,7 @@ ceonocyte
 coroners
 ceorl
 ceorlish
+clips
 ceorls
 cep
 cepa
@@ -16314,7 +16315,6 @@ clipping
 clipeus
 clippingly
 clippings
-clips
 clipse
 clipsheet
 clipsheets
