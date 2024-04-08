@@ -2866,7 +2866,6 @@ barotrauma
 barotraumas
 barotraumata
 bostons
-barotropic
 barouche
 barouches
 barouchet
@@ -3232,6 +3231,7 @@ basifugal
 basigamy
 basigamous
 basigenous
+barotropic
 basigynium
 basiglandular
 basihyal
