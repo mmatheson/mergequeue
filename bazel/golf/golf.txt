@@ -2958,7 +2958,6 @@ genuflected
 genuflecting
 genuflection
 genuflections
-genuflector
 genuflectory
 genuflects
 genuflex
@@ -6238,6 +6237,7 @@ gnatflower
 gnathal
 gnathalgia
 gnathidium
+genuflector
 gnathion
 gnathions
 gnathism

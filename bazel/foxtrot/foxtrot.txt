@@ -1210,6 +1210,7 @@ fashes
 fashing
 fashion
 fascinate
+fluorotic
 fashionability
 fashionable
 fashionableness
@@ -6518,7 +6519,6 @@ fluoroscoping
 fluoroscopist
 fluoroscopists
 fluorosis
-fluorotic
 fluorotype
 fluorouracil
 fluors
