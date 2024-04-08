@@ -5060,7 +5060,6 @@ derailer
 dendritical
 deal
 dendritiform
-dendrium
 dendrobates
 dendrobatinae
 dendrobe
@@ -5416,6 +5415,7 @@ denumerable
 denumerably
 denumeral
 denumerant
+dendrium
 denumerantive
 denumerative
 denunciable

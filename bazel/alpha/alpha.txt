@@ -3849,6 +3849,7 @@ avalanched
 adiamorphism
 adiantiform
 adiantum
+archmilitarist
 adiaphanous
 adiaphanousness
 adiaphon
@@ -19057,7 +19058,6 @@ archmagirist
 archmarshal
 archmediocrity
 archmessenger
-archmilitarist
 archmime
 archminister
 archmystagogue
