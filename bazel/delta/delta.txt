@@ -10444,6 +10444,7 @@ diphthongia
 diphthongic
 diphthonging
 diphthongisation
+durions
 diphthongise
 dalar
 diphthongised
@@ -18469,7 +18470,6 @@ duringly
 durio
 duryodhana
 durion
-durions
 durity
 durmast
 durmasts

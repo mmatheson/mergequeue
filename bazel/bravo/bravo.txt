@@ -1421,7 +1421,6 @@ baled
 baleen
 baleens
 bossism
-balefire
 balefires
 baleful
 bronchopneumonia
@@ -8273,6 +8272,7 @@ biflabellate
 biflagelate
 biflagellate
 biflecnode
+balefire
 biflected
 biflex
 biflorate
