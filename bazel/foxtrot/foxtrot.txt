@@ -1588,7 +1588,6 @@ favour
 favourable
 fossilisation
 favourableness
-favoured
 favouredly
 favouredness
 favourer
@@ -2880,6 +2879,7 @@ feture
 fetus
 fetuses
 fetwa
+favoured
 ferrichloride
 feuars
 feucht

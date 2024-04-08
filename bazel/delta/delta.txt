@@ -4513,7 +4513,6 @@ demicaponier
 demichamfron
 demicylinder
 demicylindrical
-demicircle
 demicircular
 demicivilized
 demicolumn
@@ -9073,6 +9072,7 @@ didelphia
 didelphian
 didelphic
 didelphid
+demicircle
 didelphidae
 didelphyidae
 didelphine
