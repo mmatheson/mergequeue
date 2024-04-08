@@ -7470,7 +7470,6 @@ dankish
 deutoplastic
 deutoscolex
 deutovum
-deutoxide
 deutsche
 deutschemark
 dermochrome
@@ -8125,6 +8124,7 @@ diadems
 diaderm
 diadermic
 dromons
+deutoxide
 diadic
 dyadic
 dyadically
